@@ -1,0 +1,8 @@
+C:\Junk\codeQLfun\obj\Debug\net5.0\codeQLfun.csproj.AssemblyReference.cache
+C:\Junk\codeQLfun\obj\Debug\net5.0\codeQLfun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Junk\codeQLfun\obj\Debug\net5.0\codeQLfun.AssemblyInfoInputs.cache
+C:\Junk\codeQLfun\obj\Debug\net5.0\codeQLfun.AssemblyInfo.cs
+C:\Junk\codeQLfun\obj\Debug\net5.0\codeQLfun.csproj.CoreCompileInputs.cache
+C:\Junk\codeQLfun\obj\Debug\net5.0\codeQLfun.MvcApplicationPartsAssemblyInfo.cache
+C:\Junk\codeQLfun\obj\Debug\net5.0\codeQLfun.RazorAssemblyInfo.cache
+C:\Junk\codeQLfun\obj\Debug\net5.0\codeQLfun.RazorAssemblyInfo.cs
